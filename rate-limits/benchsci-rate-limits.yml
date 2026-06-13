@@ -1,0 +1,27 @@
+name: BenchSci Rate Limits
+description: BenchSci does not publicly publish specific API rate limit values. Rate limits for programmatic access to the BenchSci platform are determined by subscription tier and negotiated as part of enterprise agreements. Academic free tier users accessing the Antibody tool are subject to fair use policies. Commercial users on the EMET platform should contact BenchSci to understand the rate limits applicable to their subscription.
+url: https://www.benchsci.com/contact
+created: '2026-06-13'
+modified: '2026-06-13'
+rateLimits:
+  - plan: Academic Free
+    description: Fair use rate limits apply to academic users accessing the Antibody search tool. Specific limits are not publicly documented.
+    limits:
+      - type: Requests
+        period: Unknown
+        value: Fair use policy applies
+        notes: Contact support@benchsci.com for details
+
+  - plan: Industry / Commercial
+    description: Rate limits for commercial EMET platform access are defined in enterprise subscription agreements. Limits vary by plan and organizational needs.
+    limits:
+      - type: API Requests
+        period: Unknown
+        value: Negotiated per enterprise agreement
+        notes: Contact BenchSci sales at benchsci.com/contact for rate limit details applicable to your plan
+
+notes:
+  - BenchSci does not publish rate limit documentation publicly as of June 2026
+  - Rate limits are governed by terms of service at https://www.benchsci.com/legal
+  - Enterprise customers should review their service agreements for applicable limits
+  - For API access inquiries contact support@benchsci.com

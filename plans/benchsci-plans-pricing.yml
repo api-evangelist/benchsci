@@ -1,0 +1,56 @@
+name: BenchSci Plans and Pricing
+description: BenchSci offers tiered access plans for academic researchers and commercial biopharma organizations. Academic users at approved post-secondary institutions, NGOs, and nonprofits receive free access to the Antibody search tool, while paid plans unlock additional platform capabilities. Industry and commercial users access the full EMET platform through subscription or pay-per-use arrangements negotiated with the BenchSci sales team.
+url: https://www.benchsci.com/contact
+created: '2026-06-13'
+modified: '2026-06-13'
+plans:
+  - name: Academic Free
+    description: Free access for verified academic researchers at approved post-secondary institutions, NGOs, and nonprofit organizations. Provides access to the Antibody search tool to find and validate antibodies using experimental context from published literature.
+    url: https://www.benchsci.com/customers
+    price: Free
+    audience: Academic researchers, NGOs, nonprofits
+    features:
+      - Antibody search tool access
+      - Access to 16M+ antibody records
+      - Experimental context filtering
+      - Published literature integration
+      - Vendor figure access
+    limitations:
+      - Limited to Antibody tool only
+      - Does not include EMET full platform
+      - Restricted to verified academic/nonprofit users
+
+  - name: Academic Paid
+    description: Enhanced access plan for academic institutions requiring additional BenchSci platform capabilities beyond the free tier. Contact BenchSci for institutional pricing.
+    url: https://www.benchsci.com/contact
+    price: Contact for pricing
+    audience: Academic institutions
+    features:
+      - All Academic Free features
+      - Additional platform features unlocked
+      - Enhanced data access
+
+  - name: Industry / Commercial
+    description: Full EMET platform access for biopharma and commercial life sciences organizations. Subscription or pay-per-use plans available. Includes access to the complete multi-agent AI research environment, 85M+ reagent records, 38M+ publications, and 858M-node knowledge graph. Used by 16 of the top 20 pharma companies.
+    url: https://www.benchsci.com/request-a-demo
+    price: Contact sales for pricing
+    audience: Biopharma companies, biotech firms, CROs
+    features:
+      - Full EMET platform access
+      - Target ID Agent
+      - Risk Agent
+      - Omics Agent
+      - Biomarker Agent
+      - Experimental Design Agent
+      - Principal Investigator Agent
+      - Competitive Analysis Agent
+      - Custom Agents
+      - 85M+ reagent and model system records
+      - 38M+ scientific publications (including 16M closed-access)
+      - 858M-node knowledge graph
+      - Internal proprietary data integration
+      - Self-driving lab connectivity
+      - Enterprise security and governance
+      - Dedicated PhD scientific liaisons
+      - ROI tracking and impact measurement
+      - Customizable workflows

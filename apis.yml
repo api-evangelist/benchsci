@@ -1,0 +1,59 @@
+aid: benchsci
+name: BenchSci
+description: BenchSci is an AI-powered biopharma R&D platform offering EMET, an integrated biology workbench for autonomous preclinical drug discovery. The platform provides access to 85M+ reagent and model system records (including 16M antibodies, 22M RNAi entries, and 18M CRISPR records), 38M+ scientific publications curated by PhD scientists, and an 858M-node knowledge graph. BenchSci enables scientists to search scientific reagents, experimental data, and literature through REST APIs and agentic workflows, accelerating target identification, experiment design, and lead optimization for biopharma research.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://raw.githubusercontent.com/api-evangelist/benchsci/refs/heads/main/apis.yml
+created: '2026-06-13'
+modified: '2026-06-13'
+specificationVersion: '0.19'
+tags:
+  - Biopharma
+  - Drug Discovery
+  - AI
+  - Reagents
+  - Antibodies
+  - Scientific Research
+  - Life Sciences
+  - Preclinical Research
+apis:
+  - aid: benchsci:benchsci-api
+    name: BenchSci API
+    description: REST API for searching scientific reagents, experimental data, literature, antibodies, and accelerating preclinical drug discovery workflows. Provides programmatic access to BenchSci's curated database of 85M+ reagent and model system records across antibodies, RNAi, CRISPR, cell lines, and animal models, all enriched with experimental context from millions of peer-reviewed publications.
+    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    humanURL: https://www.benchsci.com
+    baseURL: https://api.benchsci.com
+    tags:
+      - Reagents
+      - Antibodies
+      - Scientific Search
+      - Drug Discovery
+      - Biopharma
+    properties:
+      - type: Documentation
+        url: https://knowledge.benchsci.com/home
+      - type: OpenAPI
+        url: https://api.benchsci.com/openapi.json
+common:
+  - type: Website
+    url: https://www.benchsci.com
+  - type: Documentation
+    url: https://knowledge.benchsci.com/home
+  - type: GitHubOrg
+    url: https://github.com/benchsci
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/benchsci
+  - type: Blog
+    url: https://www.benchsci.com/news
+  - type: Pricing
+    url: https://www.benchsci.com/contact
+  - type: X
+    url: https://twitter.com/benchsci
+  - type: Plans
+    url: plans/benchsci-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/benchsci-rate-limits.yml
+  - type: FinOps
+    url: finops/benchsci-finops.yml
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

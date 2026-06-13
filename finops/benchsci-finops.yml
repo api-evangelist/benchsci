@@ -1,0 +1,37 @@
+name: BenchSci FinOps
+description: Financial operations guidance for managing BenchSci API and platform costs. BenchSci operates on an enterprise sales model with subscription and pay-per-use options for commercial customers. Academic users receive free access to the Antibody tool. Commercial pricing is not publicly listed and requires engagement with the BenchSci sales team. Cost management relies on negotiating appropriate subscription tiers based on organizational research volume and required platform capabilities.
+url: https://www.benchsci.com/contact
+created: '2026-06-13'
+modified: '2026-06-13'
+pricingModel: Enterprise subscription and pay-per-use; academic free tier available
+billingCycle: Invoice-based; advance billing per selected plan; 30-day payment terms default
+paymentTerms:
+  - Fees are non-refundable and non-cancellable per terms of service
+  - Invoicing occurs in advance based on selected plan
+  - Default payment terms are 30 days from invoice date
+  - BenchSci may suspend services for non-payment
+  - Users are responsible for applicable taxes
+costFactors:
+  - name: Platform Tier
+    description: Choice of academic free, academic paid, or commercial EMET subscription drives baseline cost. Commercial tiers are priced on enterprise terms.
+  - name: Usage Volume
+    description: Pay-per-use options available for commercial customers; costs scale with research query volume and data access requirements.
+  - name: Agent Capabilities
+    description: Access to specialized agents (Target ID, Risk, Omics, Biomarker, Experimental Design, PI, Competitive Analysis, Custom) may be tiered within commercial plans.
+  - name: Data Integration
+    description: Internal proprietary data integration into the EMET platform reasoning layer may incur additional costs depending on data volume and complexity.
+  - name: Support Services
+    description: Dedicated PhD scientific liaison services and customization support are included in enterprise plans but may affect overall contract value.
+optimization:
+  - Start with academic free tier for antibody search use cases if eligible
+  - Request a demo to understand which EMET agent capabilities are required before committing to a full commercial subscription
+  - Negotiate pay-per-use options if research usage is episodic rather than continuous
+  - Align subscription tier to actual agent and data access needs to avoid over-purchasing
+  - Leverage ROI tracking features within the platform to demonstrate value and inform renewal negotiations
+contacts:
+  - type: Sales
+    url: https://www.benchsci.com/request-a-demo
+  - type: Support
+    email: support@benchsci.com
+  - type: Contact
+    url: https://www.benchsci.com/contact

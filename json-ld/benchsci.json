@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "BenchSci",
+  "url": "https://www.benchsci.com",
+  "description": "BenchSci is an AI-powered biopharma R&D platform offering EMET, an integrated biology workbench for autonomous preclinical drug discovery. The platform provides access to 85M+ reagent and model system records, 38M+ scientific publications curated by PhD scientists, and an 858M-node knowledge graph.",
+  "logo": "https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg",
+  "sameAs": [
+    "https://twitter.com/benchsci",
+    "https://www.linkedin.com/company/benchsci",
+    "https://github.com/benchsci"
+  ],
+  "knowsAbout": [
+    "Biopharma Research",
+    "Drug Discovery",
+    "Artificial Intelligence",
+    "Reagent Search",
+    "Antibody Research",
+    "CRISPR",
+    "RNAi",
+    "Preclinical Research",
+    "Life Sciences",
+    "Scientific Literature"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "BenchSci API Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "BenchSci API",
+          "description": "REST API for searching scientific reagents, experimental data, literature, antibodies, and accelerating preclinical drug discovery workflows. Provides programmatic access to BenchSci's curated database of 85M+ reagent and model system records.",
+          "url": "https://www.benchsci.com",
+          "documentation": "https://knowledge.benchsci.com/home"
+        }
+      }
+    ]
+  },
+  "subjectOf": [
+    {
+      "@type": "BlogPosting",
+      "headline": "The Fragmented Nightmare of Modern Drug Discovery Ends Here. We've Been Building EMET for a Decade. Here It Is.",
+      "url": "https://www.benchsci.com/news/the-fragmented-nightmare-of-modern-drug-discovery-ends-here-we-ve-been-building-emet-for-a",
+      "datePublished": "2026-06-08",
+      "publisher": {
+        "@type": "Organization",
+        "name": "BenchSci"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Scientific Integrity by Design: Engineering Disciplined AI for Preclinical R&D",
+      "url": "https://www.benchsci.com/news/scientific-integrity-by-design-engineering-disciplined-ai-for-preclinical-r-and-d",
+      "datePublished": "2026-03-17",
+      "publisher": {
+        "@type": "Organization",
+        "name": "BenchSci"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "Introducing LEAP: The Evidence-based AI Engine for Predicting Novel Biology and Experimental Design",
+      "url": "https://www.benchsci.com/news/introducing-leap-the-evidence-based-ai-engine-for-predicting-novel-biology-and-experimental",
+      "datePublished": "2025-11-26",
+      "publisher": {
+        "@type": "Organization",
+        "name": "BenchSci"
+      }
+    }
+  ]
+}

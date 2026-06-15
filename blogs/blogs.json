@@ -66,5 +66,17 @@
       "category": "Updates",
       "description": "Multi-year partnership with MILA to develop AI for drug discovery and biological inference."
     }
-  ]
+  ],
+  "repo": "benchsci",
+  "feeds": [
+    {
+      "source": "https://www.linkedin.com/company/benchsci",
+      "feed_url": "https://www.linkedin.com/company/benchsci",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-06-14T20:42:17Z"
 }

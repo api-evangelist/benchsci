@@ -1,7 +1,7 @@
 aid: benchsci
 name: BenchSci
 description: BenchSci is an AI-powered biopharma R&D platform offering EMET, an integrated biology workbench for autonomous preclinical drug discovery. The platform provides access to 85M+ reagent and model system records (including 16M antibodies, 22M RNAi entries, and 18M CRISPR records), 38M+ scientific publications curated by PhD scientists, and an 858M-node knowledge graph. BenchSci enables scientists to search scientific reagents, experimental data, and literature through REST APIs and agentic workflows, accelerating target identification, experiment design, and lead optimization for biopharma research.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/benchsci/refs/heads/main/apis.yml
 created: '2026-06-13'
 modified: '2026-06-13'
@@ -19,7 +19,7 @@ apis:
   - aid: benchsci:benchsci-api
     name: BenchSci API
     description: REST API for searching scientific reagents, experimental data, literature, antibodies, and accelerating preclinical drug discovery workflows. Provides programmatic access to BenchSci's curated database of 85M+ reagent and model system records across antibodies, RNAi, CRISPR, cell lines, and animal models, all enriched with experimental context from millions of peer-reviewed publications.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.benchsci.com
     baseURL: https://api.benchsci.com
     tags:

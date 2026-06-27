@@ -1,82 +1,14 @@
 {
-  "provider": "benchsci",
-  "blogUrl": "https://www.benchsci.com/news",
-  "lastFetched": "2026-06-13",
-  "posts": [
-    {
-      "title": "The Fragmented Nightmare of Modern Drug Discovery Ends Here. We've Been Building EMET for a Decade. Here It Is.",
-      "url": "https://www.benchsci.com/news/the-fragmented-nightmare-of-modern-drug-discovery-ends-here-we-ve-been-building-emet-for-a",
-      "date": "2026-06-08",
-      "category": "Company",
-      "description": "Announcement of EMET platform after a decade of development, addressing fragmentation in modern drug discovery workflows."
-    },
-    {
-      "title": "Scientific Integrity by Design: Engineering Disciplined AI for Preclinical R&D",
-      "url": "https://www.benchsci.com/news/scientific-integrity-by-design-engineering-disciplined-ai-for-preclinical-r-and-d",
-      "date": "2026-03-17",
-      "category": "Insights",
-      "description": "Focus on responsible AI design principles for preclinical research applications."
-    },
-    {
-      "title": "Trust in the Age of Modern AI: Why Design Principles Matter More Than Ever",
-      "url": "https://www.benchsci.com/news/trust-in-the-age-of-modern-ai-why-design-principles-matter-more-than-ever",
-      "date": "2026-02-19",
-      "category": "Insights",
-      "description": "Explores the importance of design principles in contemporary AI systems for scientific research."
-    },
-    {
-      "title": "AI at BenchSci: What We Learned Building Real Impact in 2025",
-      "url": "https://www.benchsci.com/news/ai-at-benchsci-what-we-learned-building-real-impact-in-2025",
-      "date": "2026-02-10",
-      "category": "Insights",
-      "description": "Retrospective on 2025 AI development and implementation lessons at BenchSci."
-    },
-    {
-      "title": "What Does \"Good\" Look Like: Scaling Evaluation of Non-Deterministic GenAI Systems in Disease Biology Research",
-      "url": "https://www.benchsci.com/news/what-does-good-look-like-scaling-evaluation-of-non-deterministic-genai-systems-in-disease",
-      "date": "2026-01-20",
-      "category": "Insights",
-      "description": "Methods for evaluating generative AI systems in non-deterministic biological research contexts."
-    },
-    {
-      "title": "BenchSci Extends ASCEND Agreement with Merck to Support Preclinical Disease Biology Research",
-      "url": "https://www.benchsci.com/news/benchsci-extends-ascend-agreement-with-merck-to-support-preclinical-disease-biology-research",
-      "date": "2025-12-09",
-      "category": "Press",
-      "description": "Partnership expansion with Merck to support preclinical disease biology research."
-    },
-    {
-      "title": "Introducing LEAP: The Evidence-based AI Engine for Predicting Novel Biology and Experimental Design",
-      "url": "https://www.benchsci.com/news/introducing-leap-the-evidence-based-ai-engine-for-predicting-novel-biology-and-experimental",
-      "date": "2025-11-26",
-      "category": "Insights",
-      "description": "Launch of LEAP, an evidence-driven AI engine for biological prediction and experimental design."
-    },
-    {
-      "title": "BenchSci Ranked Among Fastest-Growing Companies in North America on the 2025 Deloitte Technology Fast 500",
-      "url": "https://www.benchsci.com/news/benchsci-ranked-among-fastest-growing-companies-in-north-america-on-the-2025-deloitte-technology",
-      "date": "2025-11-19",
-      "category": "Press",
-      "description": "Recognition of BenchSci's rapid growth achievements in North America."
-    },
-    {
-      "title": "Collaboration aims to build AI systems capable of biological inference and experimental assay prediction",
-      "url": "https://betakit.com/benchsci-inks-multi-year-partnership-with-mila-to-develop-ai-for-drug-discovery/",
-      "date": "2025-11-12",
-      "category": "Updates",
-      "description": "Multi-year partnership with MILA to develop AI for drug discovery and biological inference."
-    }
-  ],
   "repo": "benchsci",
   "feeds": [
     {
-      "source": "https://www.linkedin.com/company/benchsci",
-      "feed_url": "https://www.linkedin.com/company/benchsci",
-      "title": "",
+      "source": "https://www.benchsci.com/news",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
+      "method": "agent-scrape"
     }
   ],
+  "fetched": "2026-06-27T12:27:42Z",
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "agent_pulled": "2026-06-27"
 }

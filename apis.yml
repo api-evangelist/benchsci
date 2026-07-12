@@ -34,6 +34,12 @@ apis:
       - type: OpenAPI
         url: https://api.benchsci.com/openapi.json
 common:
+  - type: TrustCenter
+    url: security/benchsci-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/benchsci-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/benchsci-domain-security.yml
   - type: Website
     url: https://www.benchsci.com
   - type: Documentation

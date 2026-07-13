@@ -2,13 +2,14 @@
   "repo": "benchsci",
   "feeds": [
     {
-      "source": "https://www.benchsci.com/news",
-      "feed_url": "",
+      "source": "https://www.linkedin.com/company/benchsci",
+      "feed_url": "https://www.linkedin.com/company/benchsci",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
-  "fetched": "2026-06-27T12:27:42Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "post_count": 0,
   "agent_pulled": "2026-06-27"
 }

@@ -1,7 +1,19 @@
 aid: benchsci
 name: BenchSci
 description: BenchSci is an AI-powered biopharma R&D platform offering EMET, an integrated biology workbench for autonomous preclinical drug discovery. The platform provides access to 85M+ reagent and model system records (including 16M antibodies, 22M RNAi entries, and 18M CRISPR records), 38M+ scientific publications curated by PhD scientists, and an 858M-node knowledge graph. BenchSci enables scientists to search scientific reagents, experimental data, and literature through REST APIs and agentic workflows, accelerating target identification, experiment design, and lead optimization for biopharma research.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: approval
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium · Requires approval
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/benchsci.png
 url: https://raw.githubusercontent.com/api-evangelist/benchsci/refs/heads/main/apis.yml
 created: '2026-06-13'
 modified: '2026-06-13'

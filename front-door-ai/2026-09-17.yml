@@ -1,0 +1,27 @@
+# Front Door AI Index — benchsci — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: benchsci
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.benchsci.com
+  final_host: www.benchsci.com
+  ownership: own
+  owner: benchsci
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 11
+  host_score: 11
+  density: 13.85
+  words: 794
+  tiers:
+    agentic: 8
+    core: 3
+    model: 0
+  ambiguous: 0
+  top_terms:
+    agentic: 8
+    AI: 2
+    LLMs: 1

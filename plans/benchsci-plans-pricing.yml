@@ -1,3 +1,8 @@
+# Provenance stamped 2026-10-07 (roadmap#943): written by an API Evangelist sweep (dated 2026-06-13 by the file itself), not
+# harvested from the provider. `method: generated` so the economics campaign may replace it with a
+# dated, verbatim transcription; every figure below is unverified until it does.
+method: generated
+generated: '2026-06-13'
 name: BenchSci Plans and Pricing
 description: BenchSci offers tiered access plans for academic researchers and commercial biopharma organizations. Academic users at approved post-secondary institutions, NGOs, and nonprofits receive free access to the Antibody search tool, while paid plans unlock additional platform capabilities. Industry and commercial users access the full EMET platform through subscription or pay-per-use arrangements negotiated with the BenchSci sales team.
 url: https://www.benchsci.com/contact

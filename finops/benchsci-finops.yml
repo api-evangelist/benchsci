@@ -1,3 +1,12 @@
+# Provenance stamped 2026-10-07 (roadmap#943): written by an API Evangelist sweep (dated 2026-06-13 by the file itself), not
+# harvested from the provider. `method: generated` so the economics campaign may replace it with a
+# dated, verbatim transcription; every figure below is unverified until it does.
+# Coverage demoted 2026-10-07 (roadmap#942, PLAN.md Stage A): this file was written by an API Evangelist
+# sweep and names no billing unit, meters or pricing category read from the provider — it restates the
+# FinOps framework. It is `x-coverage: unmeasured`, and the FOCUS alignment it claimed has been removed.
+x-coverage: unmeasured
+method: generated
+generated: '2026-06-13'
 name: BenchSci FinOps
 description: Financial operations guidance for managing BenchSci API and platform costs. BenchSci operates on an enterprise sales model with subscription and pay-per-use options for commercial customers. Academic users receive free access to the Antibody tool. Commercial pricing is not publicly listed and requires engagement with the BenchSci sales team. Cost management relies on negotiating appropriate subscription tiers based on organizational research volume and required platform capabilities.
 url: https://www.benchsci.com/contact

@@ -1,3 +1,8 @@
+# Provenance stamped 2026-10-07 (roadmap#943): written by an API Evangelist sweep (dated 2026-06-13 by the file itself), not
+# harvested from the provider. `method: generated` so the economics campaign may replace it with a
+# dated, verbatim transcription; every figure below is unverified until it does.
+method: generated
+generated: '2026-06-13'
 name: BenchSci Rate Limits
 description: BenchSci does not publicly publish specific API rate limit values. Rate limits for programmatic access to the BenchSci platform are determined by subscription tier and negotiated as part of enterprise agreements. Academic free tier users accessing the Antibody tool are subject to fair use policies. Commercial users on the EMET platform should contact BenchSci to understand the rate limits applicable to their subscription.
 url: https://www.benchsci.com/contact

@@ -64,19 +64,106 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BenchSci is an AI-powered biopharma R&D platform offering EMET, an integrated biology workbench for autonomous preclinical drug discovery. Founded in 2015 at the Creative Destruction Lab, University of Toronto, BenchSci serves 16 of the top 20 pharma companies with AI tools that help scientists answer complex research questions by reasoning through biological data.
+BenchSci is an AI-powered biopharma R&D platform offering EMET, an integrated biology workbench for autonomous preclinical drug discovery. The platform provides access to 85M+ reagent and model system records (including 16M antibodies, 22M RNAi entries, and 18M CRISPR records), 38M+ scientific publications curated by PhD scientists, and an 858M-node knowledge graph. BenchSci enables scientists to search scientific reagents, experimental data, and literature through REST APIs and agentic workflows, accelerating target identification, experiment design, and lead optimization for biopharma research.
 
-The platform provides access to 85M+ reagent and model system records (including 16M antibodies, 22M RNAi entries, and 18M CRISPR records), 38M+ scientific publications curated by PhD scientists, and an 858M-node knowledge graph. BenchSci's EMET platform enables scientists to search scientific reagents, experimental data, and literature, accelerating target identification, experiment design, and lead optimization.
+**Areas:** Biopharma · Drug Discovery · Artificial Intelligence · Reagents · Antibodies · Scientific Research · Life Sciences · Preclinical Research
 
-**Website:** https://www.benchsci.com  
-**Documentation:** https://knowledge.benchsci.com/home  
-**GitHub:** https://github.com/benchsci  
-**Blog:** https://www.benchsci.com/news  
-**LinkedIn:** https://www.linkedin.com/company/benchsci  
-**X:** https://twitter.com/benchsci  
+## BenchSci on APIs.io
 
-## APIs.json
+Everything profiled for BenchSci is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/benchsci/](https://apis.io/providers/benchsci/)** — or go straight to one of the APIs or properties below.
 
-This repository contains an APIs.json 0.19 profile for BenchSci, cataloging their platform and API resources for discovery via [APIs.io](https://apis.io).
+### APIs (1)
 
-**Maintained by:** Kin Lane (kin@apievangelist.com)
+- [BenchSci API](https://apis.io/apis/benchsci/benchsci-api/) — REST API for searching scientific reagents, experimental data, literature, antibodies, and accelerating preclinical drug discovery workflows. Provides…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Benchsci Domain Security](https://apis.io/security/benchsci/benchsci-domain-security/)
+- [Benchsci Trust Center](https://apis.io/security/benchsci/benchsci-trust-center/)
+- [Benchsci Vulnerability Disclosure](https://apis.io/security/benchsci/benchsci-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Benchsci Plans Pricing](https://apis.io/plans/benchsci/benchsci-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Benchsci Rate Limits](https://apis.io/rate-limits/benchsci/benchsci-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Benchsci Finops](https://apis.io/finops/benchsci/benchsci-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.benchsci.com)
+- [Documentation](https://knowledge.benchsci.com/home)
+- [Pricing](https://www.benchsci.com/contact)
+- [Blog](https://www.benchsci.com/news)
+
+## API Evangelist rating
+
+**Kin Score 21.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 24.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 26.3 |
+
+**Agent readiness 13.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.5** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/benchsci/](https://apis.io/providers/benchsci/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for BenchSci: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/benchsci/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
